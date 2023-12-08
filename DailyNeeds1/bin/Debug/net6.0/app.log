@@ -1,0 +1,101 @@
+ERROR 09:41:56 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 03:17:50 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 03:18:35 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 03:19:38 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:24:06 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 03:37:40 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:38:00 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:39:02 Sequence contains more than one element
+ERROR 03:41:38 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:41:48 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:44:17 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:51:52 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 04:03:19 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 04:03:59 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 12:01:26 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 12:02:16 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 12:04:55 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 12:05:13 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 12:05:20 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 12:33:25 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 12:33:35 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 12:33:39 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 12:34:01 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 12:34:06 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 01:21:19 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 01:21:42 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:05:39 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 10:41:53 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 01:27:52 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:31:44 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:32:53 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:36:43 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:37:04 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:37:19 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:40:20 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:40:30 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:46:18 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 10:46:36 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 07:24:03 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:40:01 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:40:12 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:41:07 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:42:12 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:43:49 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:46:36 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:50:51 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:50:58 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:52:03 Sequence contains more than one element
+ERROR 03:52:05 Sequence contains more than one element
+ERROR 03:53:50 Sequence contains more than one element
+ERROR 03:53:52 Sequence contains more than one element
+ERROR 03:53:59 Sequence contains more than one element
+ERROR 03:57:52 Sequence contains more than one element
+ERROR 03:59:29 Sequence contains more than one element
+ERROR 03:59:32 Sequence contains more than one element
+ERROR 04:00:42 Sequence contains more than one element
+ERROR 04:01:17 Sequence contains more than one element
+ERROR 05:18:57 Sequence contains more than one element
+ERROR 09:21:19 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 09:21:28 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 12:01:40 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 12:02:03 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 12:03:18 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 12:21:53 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 12:42:04 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 12:44:45 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 09:43:46 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 09:43:55 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 09:59:19 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 10:03:01 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:12:02 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 03:14:00 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 03:15:18 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 03:49:10 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 03:51:12 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 04:07:19 An error occurred while saving the entity changes. See the inner exception for details.
+ERROR 05:31:01 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 05:32:46 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 05:33:44 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 05:49:43 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 05:50:29 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 05:52:23 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 05:53:21 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 05:55:24 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 05:55:35 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 05:57:53 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 06:04:01 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 06:16:19 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 06:42:38 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 06:44:16 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 06:45:07 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 06:45:51 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 06:49:20 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 06:49:35 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 06:57:30 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 06:58:18 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 06:59:43 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 07:04:21 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 07:05:00 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 07:07:05 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+ERROR 07:07:22 An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.

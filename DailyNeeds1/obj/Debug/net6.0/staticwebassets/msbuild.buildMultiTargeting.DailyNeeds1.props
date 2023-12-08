@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DailyNeeds1.props" />
+</Project>
